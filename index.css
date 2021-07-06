@@ -1,0 +1,17 @@
+* {
+  width: auto;
+  height: auto;
+  box-sizing: border-box;
+}
+
+body {
+  background: grey;
+}
+
+p {
+  /* display: inline; */
+  text-align: center;
+  margin-top: 100px;
+  font-size: 100px;
+  color: lightseagreen;
+}
